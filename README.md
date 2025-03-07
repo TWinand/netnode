@@ -1,0 +1,2 @@
+# netnode
+visualization of search and offer in a network of people
